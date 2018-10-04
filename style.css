@@ -1,0 +1,35 @@
+body, body * {
+    font-family: 'Montserrat', sans-serif;
+    color: #494949;
+}
+
+body {
+    background-color: #40a63d1a;
+    /* font-family:Bai Jamjuree;  */
+}
+nav{
+    background-color:#494949 !important;
+    text-transform: uppercase;
+    padding: 0px;
+}
+
+a{
+    color:#958e84 !important;
+}
+.flag{
+    padding-left: 1em;
+}
+li{
+    padding: 1em;
+}
+#nav-item{
+    float: right;
+}
+#card{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+/* Write all your CSS here! */
